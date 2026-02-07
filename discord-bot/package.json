@@ -1,0 +1,12 @@
+{
+  "name": "mythicmon-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord para enviar notificaciones al Mythicmon Launcher",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
